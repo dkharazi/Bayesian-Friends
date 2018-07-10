@@ -16,8 +16,8 @@ Dr. Jason D. Boardman is an associate professor in the Department of Sociology, 
 
 ## Variable Descriptions
 
-- `Y:` The gender of the first student in the pair (Male = 0; Female = 1).
-- `X:` The gender of the second student in the pair (Male = 0; Female = 1).
+- `isFriends:` An indication of the pair of students considering themselves good friends (Not good friends = 0; Good friends = 1).
+- `isSameGender:` An indication of the pair of students being the same gender (Not the same Gender = 0; Same gender = 1).
 - `School:` The school of the pair of students.
 - `Pair:` The observed pair of students.
 
