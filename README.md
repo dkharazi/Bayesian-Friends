@@ -9,4 +9,4 @@ One way to understand the popularity for certain areas of eductions within unive
 
 ## Relevent Papers
 
-Jason D. Boardman, Ph.D., Benjamin W. Domingue, and Jason M. Fletcher, Ph.D. (2012). How social and genetic factors predict friendship networks. Proceedings of the National Academy of Sciences [(1)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491494/)
+[(1)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491494/) Jason D. Boardman, Ph.D., Benjamin W. Domingue, and Jason M. Fletcher, Ph.D. (2012). How social and genetic factors predict friendship networks. Proceedings of the National Academy of Sciences
