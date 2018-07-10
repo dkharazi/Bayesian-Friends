@@ -185,7 +185,7 @@ ggplot(alphaPostDFreshape, aes(x = variable, y = value)) +
 ```
 
 <p align="center">
-  <img width="1000" height="930" src="/graphics/plot1.png">
+  <img width="500" height="465" src="/graphics/plot1.png">
 </p>
 
 ```{r postbeta}
@@ -202,7 +202,7 @@ ggplot(betaPostDFreshape, aes(x = variable, y = value)) +
 ```
 
 <p align="center">
-  <img width="1020" height="930" src="/graphics/plot2.png">
+  <img width="510" height="465" src="/graphics/plot2.png">
 </p>
 
 ## Further Analysis
