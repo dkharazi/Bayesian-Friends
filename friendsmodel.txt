@@ -1,0 +1,19 @@
+model {
+
+  for(i in 1:nSurvey){
+      isFriends[i] ~ dbern(theta[i])
+      logit(theta[i]) <- alpha[school[i]] + beta[school[i]] * isSameGender[i]
+  }
+    
+  for(s in 1:nSchools) {
+    alpha[s] ~ dnorm(mu_alpha, tau2_alpha)
+    beta[s] ~ dnorm(mu_beta, tau2_beta)
+  }
+  
+  mu_alpha ~ dnorm(0, 1/9)
+  mu_beta ~ dnorm(0, 1/9)
+  sigma2_alpha ~ dunif(0, 9)
+  sigma2_beta ~ dunif(0, 9)
+  tau2_alpha <- 1/sigma2_alpha
+  tau2_beta <- 1/sigma2_beta
+}
