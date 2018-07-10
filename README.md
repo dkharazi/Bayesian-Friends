@@ -2,6 +2,8 @@
 
 Using school, network and genetic data from the National Longitudinal Study of Adolescent Health, researchers at the University of Colorado and Yale University studied the effects of social environment and genetic factors on friendship selection, adding to the growing body of research on the role of genetic homophily in friendship formation.  Their results suggest that social context plays a fundamental role in friendship formation, as a social environment can facilitate or restrict the opportunity to select friends with similar genotypes.
 
+## Research
+
 In recent years, as DNA sequencing has gotten increasingly quicker, cheaper and easier, some researchers have looked at individuals’ genes and come to a surprising finding – that people who are friends are disproportionately likely to share certain similarities in their genetic makeup. 
 
 Some scientists have even hypothesized that this is the result of an evolutionary advantageous strategy, similar to the theory of inclusive fitness for kin: As a prehistoric human, if you tended to stick together and support others with whom you share genes, helping them survive led to the survival of your own genes, even if you personally didn’t make it to pass your genes on to your offspring.  Under that theory, we’re able to recognize our non-family genetic brethren and, consciously or not, become friends with them based on that similarity.
