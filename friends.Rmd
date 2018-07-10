@@ -33,7 +33,7 @@ In our analysis, we will:
 ## Model and Parameter Specifications
 
 <p align="center">
-  <img width="1860" height="1160" src="/graphics/equation1.png">
+  <img width="870" height="545" src="/graphics/equation1.png">
 </p>
 
 ## Fitting the Model using JAGS
