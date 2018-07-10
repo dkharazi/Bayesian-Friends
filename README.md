@@ -18,8 +18,8 @@ Dr. Jason D. Boardman is an associate professor in the Department of Sociology, 
 
 - `Y:` The salary of a faculty member.
 - `X:` The department of a faculty member.
-- `School:` .
-- `Pair:` .
+- `School:` The school of the pair of students.
+- `Pair:` The observed pair of students.
 
 ## Relevent Papers
 
