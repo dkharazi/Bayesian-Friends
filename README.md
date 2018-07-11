@@ -16,7 +16,7 @@ Dr. Jason D. Boardman is an associate professor in the Department of Sociology, 
 
 ## Variable Descriptions
 
-- `isFriends:` An indication of the pair of students being good friends (Not good friends = 0; Good friends = 1).
+`isFriends:` An indication of the pair of students being good friends (Not good friends = 0; Good friends = 1).
 - `isSameGender:` An indication of the pair of students being the same gender (Different Gender = 0; Same gender = 1).
 - `School:` The school of the pair of students.
 - `Pair:` The observed pair of students.
